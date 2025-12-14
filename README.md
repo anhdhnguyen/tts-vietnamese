@@ -87,6 +87,10 @@ For quick conversions of short text snippets.
     python simple-tts/pdf_to_audio.py
     ```
 
+## Future Development
+
+To make this tool even more accessible and easier to use, the next major goal is to develop a simple graphical user interface (UI). This will remove the need to edit scripts manually and make the conversion process much more straightforward for everyday use.
+
 ## Contributing
 
 Contributions are welcome! If you have ideas for improvements, such as adding command-line arguments instead of hardcoding paths, feel free to open an issue or submit a pull request.
