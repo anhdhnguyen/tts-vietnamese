@@ -1,0 +1,8 @@
+# Ignore the personal documents folder
+/personal-docs/
+
+# Ignore the contents of the documents folder...
+documents/*
+
+# ...but not the .gitkeep file inside it.
+!documents/.gitkeep
