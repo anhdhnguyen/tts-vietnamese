@@ -6,3 +6,17 @@ documents/*
 
 # ...but not the .gitkeep file inside it.
 !documents/.gitkeep
+
+# Gemini context and configuration
+.gemini/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# PyInstaller
+*.manifest
+*.spec
+build/
+dist/
