@@ -1,0 +1,20 @@
+Metadata-Version: 2.4
+Name: lito
+Version: 1.1.1
+Summary: Lito: Simple & Lightweight Text to Speech
+Requires-Python: >=3.12
+Requires-Dist: edge-tts>=7.2.7
+Requires-Dist: pypdf>=6.4.1
+Requires-Dist: pyinstaller>=6.3.0
+Requires-Dist: pywin32-ctypes>=0.2.2
+Requires-Dist: pefile>=2023.2.7
+Requires-Dist: pywin32>=306
+Requires-Dist: packaging>=23.2
+Requires-Dist: altgraph>=0.17.4
+Requires-Dist: aiohttp>=3.9.1
+Requires-Dist: certifi>=2023.11.17
+Provides-Extra: dev
+Requires-Dist: pytest; extra == "dev"
+Requires-Dist: ruff; extra == "dev"
+Requires-Dist: bandit; extra == "dev"
+Requires-Dist: pip-audit; extra == "dev"
